@@ -1,0 +1,14 @@
+D:\Proyects\WMS\SistemaABC\bin\Debug\net9.0\SistemaABC.exe
+D:\Proyects\WMS\SistemaABC\bin\Debug\net9.0\SistemaABC.deps.json
+D:\Proyects\WMS\SistemaABC\bin\Debug\net9.0\SistemaABC.runtimeconfig.json
+D:\Proyects\WMS\SistemaABC\bin\Debug\net9.0\SistemaABC.dll
+D:\Proyects\WMS\SistemaABC\bin\Debug\net9.0\SistemaABC.pdb
+D:\Proyects\WMS\SistemaABC\obj\Debug\net9.0\SistemaABC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyects\WMS\SistemaABC\obj\Debug\net9.0\SistemaABC.AssemblyInfoInputs.cache
+D:\Proyects\WMS\SistemaABC\obj\Debug\net9.0\SistemaABC.AssemblyInfo.cs
+D:\Proyects\WMS\SistemaABC\obj\Debug\net9.0\SistemaABC.csproj.CoreCompileInputs.cache
+D:\Proyects\WMS\SistemaABC\obj\Debug\net9.0\SistemaABC.dll
+D:\Proyects\WMS\SistemaABC\obj\Debug\net9.0\refint\SistemaABC.dll
+D:\Proyects\WMS\SistemaABC\obj\Debug\net9.0\SistemaABC.pdb
+D:\Proyects\WMS\SistemaABC\obj\Debug\net9.0\SistemaABC.genruntimeconfig.cache
+D:\Proyects\WMS\SistemaABC\obj\Debug\net9.0\ref\SistemaABC.dll

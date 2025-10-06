@@ -1,0 +1,74 @@
+[
+  {
+    "Code": "LAP001",
+    "Name": "Laptop Dell Latitude 5420",
+    "MovesPerMonth": 50,
+    "UnitaryPrice": 12000.00,
+    "TotalValue": 600000.00,
+    "AccumulatedPercentage": 31.233732431025507548152004160,
+    "Classification": "A"
+  },
+  {
+    "Code": "MOU001",
+    "Name": "Mouse Inal\u00E1mbrico",
+    "MovesPerMonth": 100,
+    "UnitaryPrice": 251,
+    "TotalValue": 25100,
+    "AccumulatedPercentage": 99.99999999999999999999999998,
+    "Classification": "C"
+  },
+  {
+    "Code": "SERV001",
+    "Name": "Servidor HP ProLiant",
+    "MovesPerMonth": 3,
+    "UnitaryPrice": 150000.00,
+    "TotalValue": 450000.00,
+    "AccumulatedPercentage": 54.659031754294638209266007280,
+    "Classification": "A"
+  },
+  {
+    "Code": "SWT001",
+    "Name": "Switch de Red Cisco",
+    "MovesPerMonth": 8,
+    "UnitaryPrice": 45000.00,
+    "TotalValue": 360000.00,
+    "AccumulatedPercentage": 73.399271212909942738157209780,
+    "Classification": "A"
+  },
+  {
+    "Code": "MON001",
+    "Name": "Monitor 4K 32\u0022",
+    "MovesPerMonth": 40,
+    "UnitaryPrice": 8000.00,
+    "TotalValue": 320000.00,
+    "AccumulatedPercentage": 90.05726184279021343050494533,
+    "Classification": "B"
+  },
+  {
+    "Code": "KB001",
+    "Name": "Teclado Mec\u00E1nico",
+    "MovesPerMonth": 60,
+    "UnitaryPrice": 1200.00,
+    "TotalValue": 72000.00,
+    "AccumulatedPercentage": 93.80530973451327433628318583,
+    "Classification": "B"
+  },
+  {
+    "Code": "CAM001",
+    "Name": "C\u00E1mara Web HD",
+    "MovesPerMonth": 30,
+    "UnitaryPrice": 1800.00,
+    "TotalValue": 54000.00,
+    "AccumulatedPercentage": 96.61634565330557001561686620,
+    "Classification": "C"
+  },
+  {
+    "Code": "USB001",
+    "Name": "Memoria USB 64GB",
+    "MovesPerMonth": 200,
+    "UnitaryPrice": 200.00,
+    "TotalValue": 40000.00,
+    "AccumulatedPercentage": 98.69859448204060385216033314,
+    "Classification": "C"
+  }
+]
